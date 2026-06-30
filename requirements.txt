@@ -1,0 +1,5 @@
+opencv-python
+firebase_admin
+ultralytics
+firebase
+twilio
